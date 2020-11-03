@@ -1,0 +1,11 @@
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\bin\Debug\yedekleme_programi.exe.config
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\bin\Debug\yedekleme_programi.exe
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\bin\Debug\yedekleme_programi.pdb
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\bin\Debug\FontAwesome.Sharp.dll
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.csprojResolveAssemblyReference.cache
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.Properties.Resources.resources
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.csproj.GenerateResource.Cache
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.exe
+c:\users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.pdb
+C:\Users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.ana_program.resources
+C:\Users\emret\documents\visual studio 2015\Projects\yedekleme_programi\yedekleme_programi\obj\Debug\yedekleme_programi.hakkimda.resources
