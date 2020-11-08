@@ -151,12 +151,12 @@ namespace yedekleme_programi
         private void ana_program_Load(object sender, EventArgs e)
         {
             ıconPictureBox3.Visible = false;
+            MessageBox.Show("Bu uygulamayı 2020 Izmir depreminde kaybettiğim ZerOFoX dostum (Muhammet) ile beraber yazmıştık. Kendisi depremde hayatını kaybettiği için artık tek başıma geliştirme kararı aldım. Yazılımı kullanır ve develop ederken lütfen arkadaşımın ruhuna bir Fatiha hediye edin. Desteklerinizden ötürü ve projeye katkı sağladığınızdan dolayı teşekkür ederim.");
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            hakkimda benkimim = new hakkimda();
-            benkimim.Show(); 
+            MessageBox.Show("Burayı kaldırma kararı aldım. İşini bilen insanlar kaynak kodlarından hakkimda.cs formunu açıp okuyabilirler.");
 
         }
 

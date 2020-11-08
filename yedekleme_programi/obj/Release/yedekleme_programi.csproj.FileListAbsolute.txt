@@ -19,3 +19,14 @@ C:\Users\emret\Desktop\BackupMaster-main\yedekleme_programi\obj\Release\yedeklem
 C:\Users\emret\Desktop\BackupMaster-main\yedekleme_programi\obj\Release\yedekleme_programi.hakkimda.resources
 C:\Users\emret\Desktop\BackupMaster-main\yedekleme_programi\obj\Release\yedekleme_programi.Properties.Resources.resources
 C:\Users\emret\Desktop\BackupMaster-main\yedekleme_programi\obj\Release\yedekleme_programi.csproj.GenerateResource.Cache
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\bin\Release\yedekleme_programi.exe.config
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.exe
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.pdb
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\bin\Release\yedekleme_programi.exe
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\bin\Release\yedekleme_programi.pdb
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\bin\Release\FontAwesome.Sharp.dll
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.csprojResolveAssemblyReference.cache
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.ana_program.resources
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.hakkimda.resources
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.Properties.Resources.resources
+C:\Users\emret\Desktop\BackupMaster\yedekleme_programi\obj\Release\yedekleme_programi.csproj.GenerateResource.Cache
