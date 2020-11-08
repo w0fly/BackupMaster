@@ -1,5 +1,7 @@
 # BackupMaster
 
+# Önemli Bir Not
+Bu uygulamayı 2020 Izmir depreminde kaybettiğim ZerOFoX dostum (Muhammet) ile beraber yazmıştık. Kendisi depremde hayatını kaybettiği için artık tek başıma geliştirme kararı aldım. Yazılımı kullanır ve develop ederken lütfen arkadaşımın ruhuna bir Fatiha hediye edin. Desteklerinizden ötürü ve projeye katkı sağladığınızdan dolayı teşekkür ederim.
 
 
 ![alt text](https://i.hizliresim.com/8ECUEi.png)
